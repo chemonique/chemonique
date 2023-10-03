@@ -1,11 +1,4 @@
-<table>
-<tr>
-<td>
 
-<!-- ![Profile Photo](https://blueprintway.com/wp-content/uploads/2020/09/Vanetta-Morrison-Profile-square-image.jpeg) -->
-
-</td>
-<td>
 
 # Chemonique Henning
 
@@ -19,9 +12,7 @@ I am a punctual and motivated individual who is able to work in a busy environme
 
 <!-- ![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png)   [www.example.com](http://www.example.com) -->
 
-</td>
-</tr>
-</table>
+
 
 ## 👾 Technologies
 
