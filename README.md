@@ -64,7 +64,7 @@ I am a punctual and motivated individual who is able to work in a busy environme
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="[www.linkedin.com/in/chemonique-henning](https://www.linkedin.com/in/chemonique-henning-75b24419a/)">
+  <a href="(https://www.linkedin.com/in/chemonique-henning-75b24419a/)">
    <img align="left" alt=" Chemonique Henning  | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
   <a href="mailto:henningchemonique@gmail.com">
