@@ -5,8 +5,6 @@
 
 I am a punctual and motivated individual who is able to work in a busy environment and produce high standards of work. I am flexible, reliable and possess excellent time keeping skills. I am a self-motivated, responsible and hard working person. I am able to work well under pressure and adhere to strict deadlines.
 
-![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png) **+27 615145870**
-
 ![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png) [henningchemonique@gmail.com](mailto:henningchemonique@gmail.com)
 
 <!-- ![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png)   [www.example.com](http://www.example.com) -->
